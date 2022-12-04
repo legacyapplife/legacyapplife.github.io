@@ -1,0 +1,15 @@
+Package: com.piercingimpulse.verduraios
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Clygro <clygro@tuta.io>
+Depends: mobilesubstrate, preferenceloader
+Provides: com.piercingimpulse.verduraios
+Architecture: iphoneos-arm
+Filename: Files/verduraios/com.piercingimpulse.verduraios_0.0.2_iphoneos-arm.deb
+Size: 6040
+Installed-Size: 40
+MD5sum: ced0d3a70d452b19db8d6860b14ddf39
+Description: BytaFont Tweak Mode for old iOS versions
+Name: VeduraiOS
+Author: PiercingImpulse 
+Depiction: http://legacyapplife.github.io/repo/Files/verduraios/index.html
